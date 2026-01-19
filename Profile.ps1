@@ -1,4 +1,6 @@
 # study stream pomodoro timer for Windows
+# requires timer https://github.com/caarlos0/timer
+
 
 $pomoOptions = @{
     "work"  = 45
